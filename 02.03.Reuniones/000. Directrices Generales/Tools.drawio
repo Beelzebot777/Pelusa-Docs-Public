@@ -1,0 +1,26 @@
+<mxfile host="app.diagrams.net" modified="2024-03-10T23:12:09.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZjtsFgVyNWfqFLVfp52g" version="24.0.2" type="google">
+  <diagram name="Page-1" id="ynfEyt2XYTCsCnmspach">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HyRqfJG-Iid2YkQrtnuB-1" value="Grabacion, transcripcion e IA de para Google Meetings" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;startSize=40;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="370" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="tldv &lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;(Click izquierdo para abrir enlace)&lt;/font&gt;&lt;/b&gt;" link="https://tldv.io/app/meetings" id="HyRqfJG-Iid2YkQrtnuB-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyRqfJG-Iid2YkQrtnuB-1">
+            <mxGeometry x="60" y="90" width="250" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HyRqfJG-Iid2YkQrtnuB-3" value="Herramienta Usada para reuniones" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="290" height="200" as="geometry" />
+        </mxCell>
+        <UserObject label="Google Meetings&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;(Click izquierdo para abrir enlace)&lt;/font&gt;&lt;/b&gt;" link="https://meet.google.com/?authuser=0" id="HyRqfJG-Iid2YkQrtnuB-4">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyRqfJG-Iid2YkQrtnuB-3">
+            <mxGeometry x="30" y="80" width="230" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
