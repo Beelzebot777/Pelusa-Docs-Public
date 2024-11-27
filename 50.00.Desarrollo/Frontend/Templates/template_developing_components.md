@@ -1,4 +1,27 @@
-# ComponentName
+### Building Cicle
+- [ ] Requirement Specification
+- [ ] UI/UX Design
+- [ ] Logic Design
+- [ ] Data Design
+- [ ] Implementation
+- [ ] Testing
+
+### Second Cicle
+- [ ] Usage Documentation
+- [ ] Review and Refactoring
+- [ ] Integration and Deployment
+
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+-----------------------------------------------------
+
+> # Building Cicle
+
+## ComponentName
 
 ## 1. Requirements Specification
 
@@ -45,13 +68,16 @@
   - Key aspects to consider during development.
 
 ## 6. Testing
-
 - **Unit Tests:**
   - Description of test cases and how to execute them.
 - **Test Coverage:**
   - Information on which parts of the component are covered by tests.
 - **Testing Tools:**
   - Libraries and frameworks used (e.g., Jest, React Testing Library).
+
+
+> # Consolidation Cicle
+
 
 ## 7. Usage Documentation
 
