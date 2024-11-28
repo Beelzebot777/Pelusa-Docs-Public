@@ -1,10 +1,3 @@
----
-name: Implementation
-about: Track the implementation of the component's functionality.
-title: "Implementation for [Component Name]"
-labels: implementation
-assignees: Gaby
----
 
 ## **Code Structure**
 - Describe how the component will be organized.

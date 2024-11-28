@@ -1,10 +1,3 @@
----
-name: Requirements Specification
-about: Define what the component does and why it is necessary.
-title: "Requirements Specification for [Component Name]"
-labels: requirements
-assignees: Gaby
----
 
 ## **Description**
 Brief explanation of the component's purpose and its role in the application.

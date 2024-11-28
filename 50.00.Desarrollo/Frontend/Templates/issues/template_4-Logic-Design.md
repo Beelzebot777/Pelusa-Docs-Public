@@ -1,10 +1,3 @@
----
-name: Logic Design
-about: Define the internal logic and state management of the component.
-title: "Logic Design for [Component Name]"
-labels: logic
-assignees: Gaby
----
 
 ## **Responsibilities**
 - What internal logic will the component handle?

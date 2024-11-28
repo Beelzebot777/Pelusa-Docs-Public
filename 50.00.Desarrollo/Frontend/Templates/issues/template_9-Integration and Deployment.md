@@ -1,10 +1,3 @@
----
-name: Integration and Deployment
-about: Track final steps to integrate and deploy the component.
-title: "Integration and Deployment for [Component Name]"
-labels: deployment
-assignees: Gaby
----
 
 ## **Dependencies on Other Components**
 - Describe interactions with other components or systems.

@@ -1,10 +1,3 @@
----
-name: Review and Refactoring
-about: Review and improve the component after implementation.
-title: "Review and Refactoring for [Component Name]"
-labels: refactor
-assignees: Gaby
----
 
 ## **Change History**
 - Document significant changes or improvements made.

@@ -1,11 +1,3 @@
----
-name: Data Design
-about: Define how the component interacts with data sources (APIs, DB).
-title: "Data Design for [Component Name]"
-labels: data-design
-assignees: Gaby
----
-
 ## **Input Data**
 - What data does the component receive? Include types and formats.
   - Example: `{ alarms: Array<Alarm>, filters: Array<string> }`

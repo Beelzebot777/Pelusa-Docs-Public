@@ -1,10 +1,3 @@
----
-name: Testing
-about: Create and execute test cases for the component.
-title: "Testing for [Component Name]"
-labels: testing
-assignees: Gaby
----
 
 ## **Unit Tests**
 - List the specific test cases.
