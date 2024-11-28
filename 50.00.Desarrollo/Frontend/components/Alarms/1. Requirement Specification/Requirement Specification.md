@@ -43,8 +43,8 @@ The `Alarms` component is exclusively designed to read and display alarm data st
      - **Tab 2**: Displays the `AlarmStats` subcomponent.
    - Position the `AlarmPanel` to the right of the main chart, occupying 30% of the total width.
 
-7. **Tabs in `TablePanel`**:
-   - Include three tabs in the `TablePanel`:
+7. **Tabs in `AlarmTablePanel`**:
+   - Include three tabs in the `AlarmTablePanel`:
      - **Alarms**: Displays all alarms without filtering.
      - **Selected Alarms**:
        - Shows alarms selected via:
@@ -112,7 +112,7 @@ The `Alarms` component is exclusively designed to read and display alarm data st
    - Show `AlarmGraph` or `AlarmStats` content based on the selected tab.
    - Ensure seamless transitions between tabs.
 
-6. **Tabs in `TablePanel`**:
+6. **Tabs in `AlarmTablePanel`**:
    - **Alarms**:
      - Display all alarms from the database.
    - **Selected Alarms**:
@@ -137,8 +137,8 @@ To improve modularity and maintainability, the `Alarms` component will be divide
 - **`AlarmStats`**: Displays general statistics and numerical insights about the alarms.
 - **`AlarmOverlay`**: Displays alarms as visual markers directly on the main candlestick chart.
 - **`AlarmPanel`**: Combines `AlarmGraph` and `AlarmStats` into a tabbed interface, positioned to the right of the main chart and occupying 30% of the width.
-- **`TablePanel`**: Combines multiple table views (`Alarms`, `Selected Alarms`, `Filtered Alarms`) into a tabbed interface.
+- **`AlarmTablePanel`**: Combines multiple table views (`Alarms`, `Selected Alarms`, `Filtered Alarms`) into a tabbed interface.
 
 ---
 
-Let me know if further refinements are needed or if you'd like to proceed to the **UI/UX Design** phase. 😊
+
