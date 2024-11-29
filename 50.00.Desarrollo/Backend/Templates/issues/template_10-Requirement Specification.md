@@ -1,10 +1,3 @@
----
-name: Requirement Specification
-about: Define what the endpoint does and why it is necessary.
-title: "Requirement Specification for [Endpoint Name]"
-labels: requirements
-assignees: Gaby
----
 
 ## **Description**
 - Briefly describe what the endpoint does and why it is necessary.
