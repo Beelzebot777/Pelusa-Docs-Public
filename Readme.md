@@ -1,6 +1,3 @@
----
-fontsize: 20pt
----
 1. # Estructura de la documentación
     1. ## Estructura de los códigos
         - La estructura de los codigos sigue esta idea: **AA.BB**
