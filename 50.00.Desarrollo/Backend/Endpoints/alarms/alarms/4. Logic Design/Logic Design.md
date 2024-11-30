@@ -1,10 +1,4 @@
----
-name: Logic Design
-about: Define the internal business logic and validation for the endpoint.
-title: "Logic Design for Alarms Endpoint"
-labels: logic
-assignees: Gabriel Roca
----
+# **Logic Design for Alarms**
 
 ## **Input Validation**
 - **Query Parameters**:
