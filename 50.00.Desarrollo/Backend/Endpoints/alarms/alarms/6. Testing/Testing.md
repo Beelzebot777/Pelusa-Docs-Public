@@ -1,10 +1,5 @@
----
-name: Testing  
-about: Define and execute test cases for the endpoint.  
-title: "Testing for `/alarms/alarms` Endpoint"  
-labels: testing  
-assignees: Gaby  
----
+
+# **Testing for Alarms**
 
 ## **Testing Frameworks**
 
