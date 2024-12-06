@@ -86,8 +86,7 @@ The `Alarms` component is exclusively designed to read and display alarm data st
    - Include tooltips with specific details for each alarm.
 
 2. **Interactive Tables**:
-   - Display alarms in a table allowing:
-     - Sorting by columns: `ID`, `Ticker`, `Interval`, `Price`, `Time`, `Type`, `Strategy`.
+   - Display alarms in a table allowing:     
      - Filtering by:
        - Interval.
        - Strategy.
@@ -108,11 +107,11 @@ The `Alarms` component is exclusively designed to read and display alarm data st
      - **Total alarms captured today**.
      - Other useful insights derived from the fetched data.
 
-5. **Tabs in `AlarmPanel`**:
-   - Show `AlarmGraph` or `AlarmStats` content based on the selected tab.
+5. **Tabs in `AlarmInfoPanel`**:
+   - Show `AlarmGraph` and/or `AlarmStats` content based on the selected tab.
    - Ensure seamless transitions between tabs.
 
-6. **Tabs in `AlarmTablePanel`**:
+6. **Tabs in `AlarmTable`**:
    - **Alarms**:
      - Display all alarms from the database.
    - **Selected Alarms**:
