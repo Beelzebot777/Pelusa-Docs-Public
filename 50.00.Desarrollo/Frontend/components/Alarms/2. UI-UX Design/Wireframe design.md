@@ -50,12 +50,12 @@ The `Alarms` component aims to provide a comprehensive interface for viewing and
      - `AlarmOverlay` markers for visualizing alarms.
 
 2. **Right Section**:  
-   - **AlarmPanel**:
-     - Two tabs (`AlarmGraph` and `AlarmStats`).
+   - **AlarmInfoPanelContainer**:
+     - Minimun Two tabs (`AlarmGraph` and `AlarmStats`).
      - Each tab displays its corresponding content (charts or statistics).
 
 3. **Bottom Section**:  
-   - **AlarmTablePanel**:
+   - **AlarmTableContaioner**:
      - Three tabs (`Alarms`, `Selected Alarms`, `Filtered Alarms`).
      - Filters for intervals, order types, strategies, and tickers.
      - Dynamic table (`AlarmTable`) showing alarm data.
@@ -68,14 +68,14 @@ The `Alarms` component aims to provide a comprehensive interface for viewing and
 - Interactive markers for alarms.
 - Tooltip to display details on hover.
 
-### **AlarmPanel**
+### **AlarmInfoPanel**
 - **AlarmGraph**:
   - Charts for intervals, strategies, tickers, type orders, and monthly distributions.
 - **AlarmStats**:
   - Last captured alarm (time, date, strategy).
   - Total alarms captured today.
 
-### **AlarmTablePanel**
+### **AlarmTablePanelContainer**
 - **Filters**:
   - Dropdowns with multi-select functionality.
   - Real-time filtering updates.
@@ -101,6 +101,6 @@ The `Alarms` component aims to provide a comprehensive interface for viewing and
 - Clicking on a marker adds it to the `Selected Alarms` tab.
 
 ### **4. Table Interaction**
-- Sorting by columns updates the display order.
+- Clicking on a row highlights the corresponding marker on the chart if the `Filtered By Click` tab is active.
 
 ---
