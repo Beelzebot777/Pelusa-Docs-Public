@@ -1,10 +1,4 @@
----
-name: Implementation
-about: Track the implementation details of the endpoint.
-title: "Implementation for /alarms/alarms Endpoint"
-labels: implementation
-assignees: Gaby
----
+# **Implementation for Alarms**
 
 ## **Dependencies**
 The implementation relies on the following third-party packages:
