@@ -198,7 +198,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for m
 
 ## 💬 **11. Contact**
 
-If you have any questions, issues, or feedback, feel free to contact **Gaby** through:
+If you have any questions, issues, or feedback, feel free to contact **Gabriel** through:
 
 - **GitHub Issues**: Open an issue in this repository.
 - **Email**: [gabriel.astudillo.roca@gmail.com](mailto:your-email@example.com)
