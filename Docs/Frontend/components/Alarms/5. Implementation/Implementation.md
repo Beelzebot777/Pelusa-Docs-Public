@@ -1,4 +1,4 @@
-# **Component Development Template**
+# Implementation Document for Alarms Component
 
 ## **Code Structure**
 The **Alarms** functionality is designed to ensure maintainability, modularity, and clarity. The main logic is divided into **container components** and **presentational components**, following best practices for React development.
