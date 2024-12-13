@@ -1,4 +1,3 @@
-# **Component Testing Template**
 
 ## **Unit Tests**
 List the specific test cases to ensure the component's functionality works as expected. Provide clear examples of what each test case should validate.
@@ -61,4 +60,3 @@ List the tools and libraries required to implement the tests effectively.
 
 ---
 
-Let me know if you'd like to expand this template with more examples or additional sections like **Integration Tests** or **End-to-End Testing**!

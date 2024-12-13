@@ -88,4 +88,3 @@ List key aspects to review or address before deploying the component to producti
 
 ---
 
-Would you like to add more detailed steps or examples for a specific integration or deployment scenario?
