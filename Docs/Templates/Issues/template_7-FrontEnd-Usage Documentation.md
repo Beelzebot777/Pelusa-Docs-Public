@@ -1,10 +1,4 @@
----
-name: Usage Documentation
-about: Document how to use the component and its API.
-title: "Usage Documentation for [Component Name]"
-labels: documentation
-assignees: Gaby
----
+# **Usasge Documentation**
 
 ## **Implementation Examples**
 - Provide examples of how to use the component in the application.

@@ -1,3 +1,5 @@
+# Data Design
+
 ## **Input Data**
 - What data does the component receive? Include types and formats.
   - Example: `{ alarms: Array<Alarm>, filters: Array<string> }`

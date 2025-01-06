@@ -1,3 +1,4 @@
+# Logic Design
 
 ## **Responsibilities**
 - What internal logic will the component handle?
