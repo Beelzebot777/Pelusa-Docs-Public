@@ -1,4 +1,4 @@
-# **Usasge Documentation**
+# **Usage Documentation**
 
 ## **Implementation Examples**
 - Provide examples of how to use the component in the application.
