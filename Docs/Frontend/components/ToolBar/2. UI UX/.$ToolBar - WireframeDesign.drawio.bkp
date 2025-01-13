@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="KknosCK5-tr7tkgxZMWr">
+    <mxGraphModel dx="1182" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-1" value="ToolBar Component" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="800" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-2" value="IntervalsPanel" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-1">
+          <mxGeometry x="90" y="34" width="380" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-4" value="1m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="10" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-5" value="5m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="50" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-6" value="15m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="90" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-7" value="30m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="130" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-8" value="1h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="170" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-9" value="4h" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="210" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-10" value="1d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="250" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-11" value="1w" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="290" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-12" value="1M" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-2">
+          <mxGeometry x="330" y="35" width="40" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-3" value="Tickers Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-1">
+          <mxGeometry x="10" y="34" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t2hvFt4r57Hsaf5bIJej-13" value="JumpTime&lt;div&gt;Button&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="t2hvFt4r57Hsaf5bIJej-1">
+          <mxGeometry x="480" y="34" width="70" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
